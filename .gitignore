@@ -1,0 +1,7 @@
+# OneDrive sync collision files
+*(*)*
+*-msi*.html
+*.tmp
+~$*
+Thumbs.db
+.DS_Store
